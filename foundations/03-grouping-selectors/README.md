@@ -16,3 +16,8 @@ This will help you further practice adding classes and using class selectors, so
 - Does each element have a unique class name?
 - Did you use the grouping selector for styles that both elements share?
 - Did you make separate rules for the styles unique to each element?
+
+
+# Personal Notes:
+-Group Selector is better to use on the class rather than on the selector itself. At least for this assignment, I first select the button as the group selector instead.
+- Descendant combinator is for nested (no space), and Chain Select is for very specific class(space) 
